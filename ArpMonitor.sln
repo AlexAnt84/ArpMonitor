@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArpMonitor", "ArpMonitor\ArpMonitor.csproj", "{5EFDAE76-93E3-4E9B-A099-E4033B6B968C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFDAE76-93E3-4E9B-A099-E4033B6B968C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFDAE76-93E3-4E9B-A099-E4033B6B968C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5EFDAE76-93E3-4E9B-A099-E4033B6B968C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFDAE76-93E3-4E9B-A099-E4033B6B968C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A081DEE-BE9E-43D6-BBF7-A5AB99AF9299}
+	EndGlobalSection
+EndGlobal
